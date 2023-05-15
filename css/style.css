@@ -1,0 +1,170 @@
+body{
+	background:#666666;
+}
+
+header, nav, main, footer{
+	width:1070px;
+	background:#CCCCFF;
+	margin:0 auto;
+	margin-bottom:15px;
+}
+
+header{
+	height:150px;
+	text-align:center;
+	font-family:Times New Roman;
+	font-size:70px;
+}
+
+nav{
+	height:50px;
+}
+
+main{
+	height:700px;
+	border-radius:55px;
+}
+
+footer{
+	height:75px;
+	text-align: center;
+}
+li{
+	display:inline-block;
+	margin-left:75px;
+	margin-top:15px;
+}
+
+.main_img{
+	text-align: center;
+	height:450px;
+	margin-top: 15px;
+	margin-bottom:23px;
+}
+
+.info_fam{
+	text-align:center;
+	font-family: Times New Roman;
+	align-items:center;
+	top:975px;
+	padding-left: 15px;
+	padding-right: 15px;
+	font-size:23px;
+}
+h2{
+	text-align:center;
+	font-size:20px;
+	align-items:center;
+	top:975px;
+}
+
+.link1{
+	height:75px;
+	float: left;
+	text-align: center;
+	margin:none;
+	padding-right: 25px;
+}
+
+.link2{
+	height:75px;
+	margin:none;
+	float: right;
+}	
+
+.p_page2{
+	font-size:25px;
+	font-family: Times New Roman ;
+	align-items:center;
+	top:975px;
+	padding-left: 25px;
+	padding-right: 25px;
+	padding-top: 30px;
+	}
+
+table{
+	height:200px;
+	padding-left:35px;
+	font-size:18px;
+	padding-left:35px;
+	padding-right:35px;
+	background:#DAEAEE ;
+	margin-left:25px;
+	margin-right:25px;
+}
+td{
+	font-size:18px;
+	padding-left:35px;
+	padding-right:35px;
+}
+
+.Page3_mom{
+	height:200px;
+	float: left;
+	padding-left:25px;
+	padding-top:20px;
+}
+
+.Page3_p1{
+	font-size:25px;
+	font-family: Times New Roman ;
+	padding-left: 30px;
+	padding-top:20px;
+	text-align: justify;
+	margin-left: 35px;
+}
+
+.Page3_dad{
+	height:200px;
+	float: right;
+	padding-top:15px;
+	padding-right: 25px;
+}
+
+.Page3_p2{
+	font-size:25px;
+	font-family: Times New Roman ;
+	padding-left: 30px;
+	padding-top:93px;
+	text-align: justify;
+	margin-right: ;
+}
+
+.Page3_sister{
+	height:160px;
+	float: left;
+	padding-left:25px;
+	padding-top:2px;
+}
+
+.Page3_p3{
+	font-size:25px;
+	font-family: Times New Roman ;
+	padding-left: 30px;
+	padding-top:5px;
+	text-align: justify;
+}
+
+.Page3_i{
+	height:200px;
+	float: right;
+	padding-right:40px;
+}
+
+.Page3_p4{
+	font-size:25px;
+	font-family: Times New Roman ;
+	padding-left: 30px;
+	padding-top:93px;
+	text-align: justify;
+}
+
+.Page4_img{
+	height: 600px;
+	margin-top:75px;
+
+}
+
+.Page3_p1, .Page3_p2, .Page3_p3, .Page3_p4{
+	text-indent: 30px;
+}
